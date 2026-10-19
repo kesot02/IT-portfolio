@@ -37,7 +37,7 @@ The network will provide departmental segmentation, connectivity to shared servi
 
 ## Project Objectives
 
-- [ ] Design a network topology
+- [ X] Design a network topology
 - [ ] Configure switches and router interfaces
 - [ ] Create VLANs for each department
 - [ ] Configure trunk ports
