@@ -38,7 +38,7 @@ The network must support:
 
 ### Business Communications
 
-The company uses **RingCentral** for voice and video communications through employee computers.
+The company uses software based phones for voice and video communications through employee computers.
 
 Because employees use software-based calling rather than dedicated physical IP phones, a separate voice VLAN is not included in the initial design.
 
