@@ -144,7 +144,7 @@ Cisco Packet Tracer
 ### Phase 3: VLAN Configuration
 
 - [X] Create VLAN 10 — Human Resources
-- [ ] Create VLAN 20 — Finance
+- [X] Create VLAN 20 — Finance
 - [ ] Create VLAN 30 — Sales
 - [ ] Create VLAN 40 — IT
 - [ ] Create VLAN 50 — Operations
