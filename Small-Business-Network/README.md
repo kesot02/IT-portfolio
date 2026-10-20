@@ -112,6 +112,17 @@ The topology will be used to implement departmental VLANs, configure network dev
 
 **Packet Tracer Project File:** To be added.
 
+## Network Equipment
+Cisco 2911 Router
+
+Cisco 3560 Multilayer Switch
+
+Cisco 2960 Access Switch
+
+PCs and network printers
+
+Cisco Packet Tracer
+
 ## Implementation Plan
 
 ### Phase 1: Network Planning and Topology
