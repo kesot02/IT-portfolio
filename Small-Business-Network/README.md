@@ -132,7 +132,7 @@ The topology will be used to implement departmental VLANs, configure network dev
 
 ### Phase 3: VLAN Configuration
 
-- [ x] Create VLAN 10 — Human Resources
+- [X] Create VLAN 10 — Human Resources
 - [ ] Create VLAN 20 — Finance
 - [ ] Create VLAN 30 — Sales
 - [ ] Create VLAN 40 — IT
